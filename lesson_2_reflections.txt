@@ -23,6 +23,9 @@ new branch without damaging the master and merge as soon as you are sure.
 
 How do the diagrams help you visualize the branch structure?
 
+We are able to see the connectivity within the commits, the relations between
+the versions, etc
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
