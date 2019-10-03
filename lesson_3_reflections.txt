@@ -35,4 +35,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+        Having one branch is easier. However, working only on it you can
+        encounter problems modifying the files. This way it's not easy to
+        restore a last working version. Branches help a lot. Resolving conflicts
+        while working with collaborators is a huge bonus.
