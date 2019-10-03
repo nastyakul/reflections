@@ -27,7 +27,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    If not GitHub, I'd send zip-files with the whole projects trying to provide
+    a description of changes I've made. Archiving files, on one hand, is quite
+    easy. But version control here is manual and time-consuming. Also you're
+    required to store lots of files on your computer and name them properly.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
